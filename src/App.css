@@ -1,0 +1,8 @@
+* {
+  margin: 0
+}
+
+.spinnerContainer {
+  margin: 20% auto;
+  max-width: 15%;
+}
